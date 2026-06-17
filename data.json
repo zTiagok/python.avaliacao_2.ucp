@@ -5,19 +5,5 @@
     "matricula": "2026001",
     "media": 8.5,
     "nome": "Ana"
-  },
-  {
-    "curso": "Engenharia",
-    "id": 2,
-    "matricula": "12310482",
-    "media": 8.5,
-    "nome": "Tiago"
-  },
-  {
-    "curso": "A",
-    "id": 3,
-    "matricula": "B",
-    "media": 8.5,
-    "nome": "Nome Certo aiaiaiai"
   }
 ]
