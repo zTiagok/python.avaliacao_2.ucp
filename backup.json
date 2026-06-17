@@ -1,0 +1,16 @@
+[
+  {
+    "curso": "Engenharia",
+    "id": 1,
+    "matricula": "2026001",
+    "media": 8.5,
+    "nome": "Ana"
+  },
+  {
+    "curso": "Engenharia",
+    "id": 2,
+    "matricula": "12310482",
+    "media": 8.5,
+    "nome": "Tiago"
+  }
+]
